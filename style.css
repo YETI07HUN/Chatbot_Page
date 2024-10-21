@@ -3,6 +3,7 @@
 }
 
 body {
+  background-color: darkgray;
   display: grid;
   place-items: center;
   min-height: 100vh;
