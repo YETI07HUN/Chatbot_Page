@@ -13,7 +13,7 @@ body {
 
 .container {
   display: flex;
-  gap: 10rem; /* Space between cards */
+  gap: 1rem; /* Space between cards */
 }
 
 .card {
@@ -26,6 +26,7 @@ body {
   overflow: hidden;
   color: #000;
   transform: translateZ(0);
+  margin: 0 0.5rem;
 }
 
 .card__img {
