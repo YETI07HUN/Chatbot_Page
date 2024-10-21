@@ -13,7 +13,7 @@ body {
 
 .container {
   display: flex;
-  gap: 1rem; /* Space between cards */
+  gap: 10rem; /* Space between cards */
 }
 
 .card {
